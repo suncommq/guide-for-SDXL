@@ -1,7 +1,6 @@
 [guide-for-SDXL](https://github.com/suncommq/guide-for-SDXL)
 
 # \<Stable Diffusion Practical Guide Table of Contents\> 
-https://github.com/suncommq/guide-for-SDXL
 [Prompt-example page view](https://www.sdexample.com/p/prompt-collection.html)
 
 [google keep](https://keep.google.com/)
