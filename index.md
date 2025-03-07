@@ -53,7 +53,7 @@ Chapter 4 Let's create images using images
 [4-4 Apply Inpaint to modify an image](https://www.sdexample.com/2025/03/4-4-modify-images-using-inpaint.html)  
 [4-5 Extend an image using Outpainting](https://www.sdexample.com/2025/03/4-5-expand-image-with-outpaingting.html)  
 [4-6 Increase the resolution of an image using img2img](https://www.sdexample.com/2025/03/4-6-increase-image-resolution-with.html)
-4-7 Let's upscale with the extension function
+[4-7 Let's upscale with the extension function](https://www.sdexample.com/2025/03/4-7-lets-upscale-with-extension.html)
 
 Chapter 5 Let's use ControlNet  
 5-1 Let's learn about ControlNet  
