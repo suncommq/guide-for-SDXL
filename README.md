@@ -61,7 +61,7 @@ Chapter 3 Let's create images with prompts
 [3-6 Let's test various prompts](https://www.sdexample.com/2025/02/3-6-lets-test-various-prompts.html)
 
 Chapter 4 Let's create images using images  
-[4-1 You can do it with img2img2 Let's figure out what's there](https://www.sdexample.com/2025/03/4-1-lets-figure-out-what-you-can-do.html)  
+[4-1 You can do it with img2img Let's figure out what's there](https://www.sdexample.com/2025/03/4-1-lets-figure-out-what-you-can-do.html)  
 [4-2 Let's create an image using Sketch](https://www.sdexample.com/2025/03/4-2-lets-create-image-using-sketch.html)  
 [4-3 Let's edit an image using Inpaint](https://www.sdexample.com/2025/03/4-3-lets-edit-image-with-inpaint.html)  
 [4-4 Apply Inpaint to modify an image](https://www.sdexample.com/2025/03/4-4-modify-images-using-inpaint.html)  
