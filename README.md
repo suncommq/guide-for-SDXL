@@ -70,7 +70,7 @@ Chapter 4 Let's create images using images
 [4-7 Let's upscale with the extension function](https://www.sdexample.com/2025/03/4-7-lets-upscale-with-extension.html)
 
 Chapter 5 Let's use ControlNet  
-5-1 Let's learn about ControlNet  
+[5-1 Let's learn about ControlNet](https://www.sdexample.com/2025/03/5-1-lets-learn-about-controlnet.html)  
 5-2 Download and prepare ControlNet  
 5-3 Create an image using ControlNet  
 5-4 Understand the role of the preprocessor
