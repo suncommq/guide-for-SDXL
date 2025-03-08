@@ -1,5 +1,7 @@
 [guide-for-SDXL](https://github.com/suncommq/guide-for-SDXL)
 
+[Installation in Colab environment](https://github.com/suncommq/guide-for-SDXL/blob/main/Guide_A1111.ipynb)
+
 # \<Stable Diffusion Practical Guide Table of Contents\> 
 [Prompt-example page view](https://www.sdexample.com/p/prompt-collection.html)
 
