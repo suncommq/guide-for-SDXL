@@ -1,6 +1,6 @@
 [guide-for-SDXL](https://github.com/suncommq/guide-for-SDXL)
 
-[Installation in Colab environment](https://github.com/suncommq/guide-for-SDXL/blob/main/Guide_A1111.ipynb)
+[Installation in Colab environment](https://colab.research.google.com/github/suncommq/guide-for-SDXL/blob/main/Guide_A1111.ipynb))
 
 # Stable Diffusion 가이드 | 스테이블 디퓨전 설치 및 사용법
 
